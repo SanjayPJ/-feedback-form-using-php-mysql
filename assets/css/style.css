@@ -1,0 +1,18 @@
+body{
+     font-family: 'Maven Pro', sans-serif;
+     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/bg.jpg);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 100vh;
+}
+form{
+     background-color: #fff;
+     border-radius: 5px;
+     padding: 20px;
+     width: 50%;
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+}
